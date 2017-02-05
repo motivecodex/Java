@@ -1,0 +1,25 @@
+body {
+	font-family: Arial;
+}
+
+label {
+	width: 150px;
+	float: left;
+}
+
+input {
+	width: 250px;
+}
+
+input.submit {
+	width: 125px;
+	height: 25px;
+}
+
+table.user {
+	width: 800px;
+}
+
+table.user td {
+	width: 15%;
+}
